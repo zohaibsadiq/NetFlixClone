@@ -331,6 +331,9 @@ footer >div a{
 
 
 @media screen and (max-width:768px) {
+  .faqbox{
+    font-size: 18px;
+  }
 
   .hero > :first-child {
   font-weight: 700;
